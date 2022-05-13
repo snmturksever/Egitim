@@ -1,3 +1,0 @@
-# Egitim
-## Deneme
-Lorem ipsum
