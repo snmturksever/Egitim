@@ -1,0 +1,32 @@
+/*
+  h1, h2, h3, h4, h5, h6 {
+    color: antiquewhite;
+  }
+*/
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color:red;
+  font-size:large;
+}
+
+h2 {
+  color:blueviolet;
+  font-size: medium;
+}
+
+p {
+  color:antiquewhite;
+  font-size: small;
+}
+
+.txt-1 {
+  color: #FF66B3;
+}
+
+#tanim-1 {
+  color: #BBE6E4;
+}
