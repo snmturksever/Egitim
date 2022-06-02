@@ -1,14 +1,40 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+.logo {
+  align-items: center;
+  display: flex;
+  justify-content: center;
 }
 
 .search {
-    background-color: rgb(231, 231, 231);
-    width: 600px 60px;
-    align-content: center;
+  background-color: rgb(231, 231, 231);
+  width: 600px 60px;
+  align-content: center;
 }
 .search input {
-    width: 300px;
-    height: 20px;
+  width: 300px;
+  height: 20px;
+}
+.flex {
+  display: inline-flex;
+  justify-content: center;
+}
+.special {
+  background-color: aquamarine;
+  width: 600px;
+  position: relative;
+  margin-left: auto;
+}
+.help {
+  background-color: aquamarine;
+}
+.get {
+  background-color: aquamarine;
 }
